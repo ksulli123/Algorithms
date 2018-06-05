@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1491082272 source:c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\main.cpp
+	<iostream>
+	"HillClimbing.h"
+	"Anneal.h"
+	"GeneticAlgorithm.h"
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<chrono>
+
+1490861867 c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\include\queens.h
+
+1490558589 source:c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\src\queens.cpp
+	"Queens.h"
+
+1491077400 c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\include\hillclimbing.h
+	<vector>
+	<ctime>
+	<cstdlib>
+	"Queens.h"
+	"State.h"
+
+1491082393 source:c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\src\hillclimbing.cpp
+	"HillClimbing.h"
+	<vector>
+	<ctime>
+	<cstdlib>
+	"Queens.h"
+	<iostream>
+	"State.h"
+
+1491036854 c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\include\state.h
+	<vector>
+	"Queens.h"
+
+1491082657 source:c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\src\anneal.cpp
+	"Anneal.h"
+	"Queens.h"
+	"State.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1490922204 c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\include\anneal.h
+	"Queens.h"
+	<vector>
+	"State.h"
+
+1491082571 source:c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\src\state.cpp
+	"State.h"
+	<vector>
+	"Queens.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1490997644 c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\include\geneticalgorithm.h
+
+1491082754 source:c:\users\r-ken\desktop\uni\2017 sem 1\2802ict\assignment1\n-queens\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1491082272 source:e:\uni\2017 sem 1\2802ict\assignment1\n-queens\main.cpp
+	<iostream>
+	"HillClimbing.h"
+	"Anneal.h"
+	"GeneticAlgorithm.h"
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<chrono>
+
+1491077400 e:\uni\2017 sem 1\2802ict\assignment1\n-queens\include\hillclimbing.h
+	<vector>
+	<ctime>
+	<cstdlib>
+	"Queens.h"
+	"State.h"
+
+1490861867 e:\uni\2017 sem 1\2802ict\assignment1\n-queens\include\queens.h
+
+1491036854 e:\uni\2017 sem 1\2802ict\assignment1\n-queens\include\state.h
+	<vector>
+	"Queens.h"
+
+1490922204 e:\uni\2017 sem 1\2802ict\assignment1\n-queens\include\anneal.h
+	"Queens.h"
+	<vector>
+	"State.h"
+
+1490997644 e:\uni\2017 sem 1\2802ict\assignment1\n-queens\include\geneticalgorithm.h
+
+1491082657 source:e:\uni\2017 sem 1\2802ict\assignment1\n-queens\src\anneal.cpp
+	"Anneal.h"
+	"Queens.h"
+	"State.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1491082754 source:e:\uni\2017 sem 1\2802ict\assignment1\n-queens\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1491082393 source:e:\uni\2017 sem 1\2802ict\assignment1\n-queens\src\hillclimbing.cpp
+	"HillClimbing.h"
+	<vector>
+	<ctime>
+	<cstdlib>
+	"Queens.h"
+	<iostream>
+	"State.h"
+
+1490558589 source:e:\uni\2017 sem 1\2802ict\assignment1\n-queens\src\queens.cpp
+	"Queens.h"
+
+1491082571 source:e:\uni\2017 sem 1\2802ict\assignment1\n-queens\src\state.cpp
+	"State.h"
+	<vector>
+	"Queens.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+
